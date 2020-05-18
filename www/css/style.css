@@ -1,2 +1,11 @@
 /**/
 
+button{
+  margin-top: 10px;
+  background:linear-gradient(to bottom, #f61f0e 5%, #fca8a1 100%);
+}
+  .map{
+    margin-top: 20px;
+    height: 400px;
+     width: 100%;
+  }
